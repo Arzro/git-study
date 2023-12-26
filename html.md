@@ -1,5 +1,5 @@
 category: html
-lectures: Hong
+lectures: Lee
 related:
 - css
 - javascript
