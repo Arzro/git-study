@@ -1,6 +1,6 @@
 category: java
 title: java level12
-lectures: Jin
+lectures: Kang
 related:
 - xcss
 - eclipse
